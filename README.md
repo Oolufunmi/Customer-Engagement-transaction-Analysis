@@ -2,6 +2,7 @@
 
 
 ## Table Of Content
+---
 - [Objective](#objective)
 - [Tools](#tools)
 - [Data Cleaning](#data-cleaning)
@@ -449,5 +450,22 @@ limits) to motivate users to verify their accounts.
 1. SQl For Business Anlayisis by Werty
 2. YOutube Tutorials By Alex the Data Analyst
 
+|Heading1|Heading2|
+|-------|----------|
+|content1|content2|
+|Python1|pyhton2|
+|MySql1|Mysql2|
 
-😄 💻 🙂 🆒 😄 💻 🙂 🆒 😄 💻 🙂 🆒 😄 💻 🙂 🆒 😄 💻 🙂 🆒 😄 💻 🙂 🆒 😄 💻 🙂 🆒 
+
+#another way to write code here 🫵
+
+
+`select all from customers`
+
+*to write in italic*
+
+
+😄
+💻 
+🙂
+🆒 😄 💻 🙂 🆒 😄 💻 🙂 🆒 😄 💻 🙂 🆒 😄 💻 🙂 🆒 😄 💻 🙂 🆒 😄 💻 🙂 🆒 
