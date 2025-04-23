@@ -425,6 +425,7 @@ verified users to transact, keeping them active in the funnel.
 
 ### Key Insights
 [User Performance Report.pptx](https://github.com/user-attachments/files/19870383/User.Performance.Report.pptx)
+![Uploading image.png…]()
 
 
 💡Tracked and visualize user growth and demographic breakdowns.
