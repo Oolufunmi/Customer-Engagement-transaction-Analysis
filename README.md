@@ -424,7 +424,7 @@ Promote First Transactions: Offer clear guides or promos to encourage
 verified users to transact, keeping them active in the funnel.
 
 ### Key Insights
-[User Performance Report.pptx](https://github.com/user-attachments/files/19870383/User.Performance.Report.pptx)
+![User Performance Report.pptx](https://github.com/user-attachments/files/19870383/User.Performance.Report.pptx)
 ![Uploading image.png…]()
 
 
