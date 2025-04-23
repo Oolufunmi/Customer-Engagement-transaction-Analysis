@@ -424,6 +424,8 @@ Promote First Transactions: Offer clear guides or promos to encourage
 verified users to transact, keeping them active in the funnel.
 
 ### Key Insights
+[User Performance Report.pptx](https://github.com/user-attachments/files/19870383/User.Performance.Report.pptx)
+
 
 💡Tracked and visualize user growth and demographic breakdowns.
 
@@ -445,3 +447,6 @@ limits) to motivate users to verify their accounts.
 ### References
 1. SQl For Business Anlayisis by Werty
 2. YOutube Tutorials By Alex the Data Analyst
+
+
+😄 💻 🙂 🆒 😄 💻 🙂 🆒 😄 💻 🙂 🆒 😄 💻 🙂 🆒 😄 💻 🙂 🆒 😄 💻 🙂 🆒 😄 💻 🙂 🆒 
